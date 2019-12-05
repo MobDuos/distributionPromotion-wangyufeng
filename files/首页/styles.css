@@ -1594,12 +1594,12 @@
   width:273px;
   height:119px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(255, 255, 255, 1);
   border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  border-radius:3px;
+  -moz-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
   font-size:12px;
 }
 #u112 {
@@ -1613,7 +1613,7 @@
 #u113 {
   position:absolute;
   left:2px;
-  top:30px;
+  top:22px;
   width:269px;
   word-wrap:break-word;
 }
@@ -1652,12 +1652,12 @@
   width:273px;
   height:119px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(255, 255, 255, 1);
   border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  border-radius:3px;
+  -moz-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
   font-size:12px;
 }
 #u116 {
@@ -1742,12 +1742,12 @@
   width:746px;
   height:107px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(255, 255, 255, 1);
   border:none;
   border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  -moz-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
 }
 #u122 {
   position:absolute;
@@ -1808,7 +1808,7 @@
 #u126 {
   position:absolute;
   left:218px;
-  top:359px;
+  top:346px;
   width:594px;
   height:32px;
 }
@@ -2129,7 +2129,7 @@
 #u155 {
   position:absolute;
   left:218px;
-  top:401px;
+  top:388px;
   width:594px;
   height:32px;
 }
@@ -2173,9 +2173,9 @@
   border-style:solid;
   border-color:rgba(204, 204, 204, 1);
   border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  -moz-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
 }
 #u157 {
   position:absolute;
